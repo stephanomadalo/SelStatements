@@ -1,0 +1,15 @@
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\bin\Debug\net6.0\SelStatements.exe
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\bin\Debug\net6.0\SelStatements.deps.json
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\bin\Debug\net6.0\SelStatements.runtimeconfig.json
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\bin\Debug\net6.0\SelStatements.dll
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\bin\Debug\net6.0\SelStatements.pdb
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\obj\Debug\net6.0\SelStatements.csproj.AssemblyReference.cache
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\obj\Debug\net6.0\SelStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\obj\Debug\net6.0\SelStatements.AssemblyInfoInputs.cache
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\obj\Debug\net6.0\SelStatements.AssemblyInfo.cs
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\obj\Debug\net6.0\SelStatements.csproj.CoreCompileInputs.cache
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\obj\Debug\net6.0\SelStatements.dll
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\obj\Debug\net6.0\refint\SelStatements.dll
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\obj\Debug\net6.0\SelStatements.pdb
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\obj\Debug\net6.0\SelStatements.genruntimeconfig.cache
+C:\Users\Madalo\Desktop\repos\SelStatements\SelStatements\obj\Debug\net6.0\ref\SelStatements.dll
